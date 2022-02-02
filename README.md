@@ -22,3 +22,7 @@ This course will introduce Python programming to students through data science p
   1. Write some basic Python programs.
   2. Get familiar with the different data structures available in Python.
   3. Leverage the concept of functions to write modular code.
+- **hw3**:
+  1. Learn how to install new Python modules
+  2. Build up a complex analysis code by building smaller functions first
+  3. Perform some basic data exploration
