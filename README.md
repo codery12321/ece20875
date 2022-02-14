@@ -26,3 +26,7 @@ This course will introduce Python programming to students through data science p
   1. Learn how to install new Python modules
   2. Build up a complex analysis code by building smaller functions first
   3. Perform some basic data exploration
+- **hw4**:
+  1. Write higher order functions that accept one or more functions as an input
+  2. Write higher order functions that return a function as output
+  3. Develop a basic signal processing algorithm (covariance)
