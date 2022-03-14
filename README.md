@@ -30,8 +30,10 @@ This course will introduce Python programming to students through data science p
     1. Write higher order functions that accept one or more functions as an input
     2. Write higher order functions that return a function as output
     3. Develop a basic signal processing algorithm (covariance)
-
 ### hw05
     1. Formulate hypotheses and carry out appropriate statistical tests
     2. Compute confidence intervals based on appropriate assumptions
     3. Work with a real dataset (student behavioral data)
+### hw06
+    1. understand regular expressions
+    2. apply regular expressions
