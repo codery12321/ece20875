@@ -37,3 +37,7 @@ This course will introduce Python programming to students through data science p
 ### hw06
     1. understand regular expressions
     2. apply regular expressions
+### hw07
+    1. Build linear regression models to serve as predictors from input data
+    2. Parse input data into feature matrices and target variables
+    3. Use cross validation to find the best regularization parameter for a dataset
